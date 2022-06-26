@@ -3,8 +3,8 @@
 ## Chapter 0: First join
 When you join for the first time, you will end up in <a href="../levels/Level_0.md">Level 0</a>.
 The first thing you should do is to find a door with an exit sign on top it.
-But do not sprint because hunger bars are valuable.
 Go thorugh it and you will find yourself in <a href="../levels/Level_1.md">Level 1</a>.
+But do not sprint because hunger bars are valuable.
 
 ## Chapter 1: Level 1
 When you are in Level 1, it is important to get as many items as possible.
