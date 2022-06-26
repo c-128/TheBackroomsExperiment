@@ -2,7 +2,10 @@
 
 ## Description
 This level is split into 2 layers. The upper layer is hallways similar to the ones in Level 0, but the floor is basalt and the walls are pink. The layer underneath it, are hallways filled with water. You will find many supply crates on the upper layer.
+<img src="./img/Level_7_upstairs_downstairs.png" />
 <img src="./img/Level_7_upstairs_dark.png" />
+<img src="./img/Level_7_upstairs_bright.png" />
+
 
 ## Entrances
 * Noclip here by falling down a ladder in <a href="./Level_6.md">Level 6</a>
