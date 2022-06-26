@@ -8,9 +8,9 @@ This level is split into 2 layers. The upper layer is hallways similar to the on
 
 
 ## Entrances
-* Noclip here by falling down a ladder in <a href="./Level_6.md">Level 6</a>
-* Go through a portal in <a href="./Level_4.md">Level 4</a> at `X: 112 Z: 23`
+* Noclip here by falling down a ladder in <a href="./Level_6.md">Level 6</a>.
+* Go through a portal in <a href="./Level_4.md">Level 4</a> at `X: 112 Z: 23`.
 
 ## Exits
-* Find a 5x5 hole and jump in it, you will get noclipped to <a href="./Level_8.md">Level 8</a>
-* Find a portal at `X: -2957 Z: 37`, enter it and you will land in <a href="./Level_4.md">Level 4</a>
+* Find a 5x5 hole and jump in it, you will get noclipped to <a href="./Level_8.md">Level 8</a>.
+* Find a portal at `X: -2957 Z: 37`, enter it and you will land in <a href="./Level_4.md">Level 4</a>.
