@@ -11,6 +11,5 @@ You can also find the only crafting tables on the entire server in here.<br/>
 
 ## Exits
 * Going through a portal at `X: -167 Z: 223` will lead to <a href="./Level_9.md">Level 9</a>.
-There are none. This is the end.
 
 <a href="./Level_10.md">< [Level 10]</a><a href="./Levels.md">Level List</a>
