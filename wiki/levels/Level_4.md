@@ -3,7 +3,7 @@
 ## Description
 This level looks like an abonden office, with nothing inside it, just rooms and hallways.
 
-## Do*s and Dont's
+## Do's and Dont's
 **Dont's:**
 * Going into the windows, they are a trap.
 

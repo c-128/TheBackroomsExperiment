@@ -3,7 +3,7 @@
 ## Description
 This Level looks like an abonden warehouse with some mushrooms growing and many supply crates.
 
-## Do*s and Dont's
+## Do's and Dont's
 **Do's:**
 * Gather as many supplie as you can, if you don't have a knife, walk far away from spawn to find chests that contain loot.
 
