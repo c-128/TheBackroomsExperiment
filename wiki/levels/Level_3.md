@@ -1,7 +1,7 @@
 # Level 3: Electrical Station
 
 ## Description
-This level has many hallways with cables running along the side.
+This level has many hallways with cables running along the side.<br/>
 <img src="./img/Level_3_0.png" width="33%" />
 <img src="./img/Level_3_1.png" width="33%" />
 <img src="./img/Level_3_exit.png" width="33%" title="Exit for this level" />
