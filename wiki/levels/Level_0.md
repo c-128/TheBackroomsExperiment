@@ -5,9 +5,9 @@
 This level has many rooms with a mono colored yellow wall.
 
 ## Entrances
+* Join the Minecraft Server for the first time.
 
 ## Exits
-
 * Find a door labeld with an exit, go through it and you will be noclipped into <a href="./Level_1.md">Level 1</a>.
 
 <a href="./Levels.md">Level List</a> | <a href="./Level_1.md">[Level 1] ></a>

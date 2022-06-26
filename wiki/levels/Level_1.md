@@ -10,6 +10,9 @@ This Level looks like an abonden warehouse with some mushrooms growing and many 
 **Dont's**
 * Do not leave this level without any supplies. You will need them.
 
+## Entities
+You can find <a href="../entities/Entity_0.md">Pillagers</a> here on rare occasions.
+
 ## Entrances
 * Noclip from <a href="./Level_0.md">Level 0</a>.
 
