@@ -2,9 +2,9 @@
 
 ## Description
 This level is split into 2 layers. The upper layer is hallways similar to the ones in Level 0, but the floor is basalt and the walls are pink. The layer underneath it, are hallways filled with water. You will find many supply crates on the upper layer.
-<img src="./img/Level_7_downstairs.png" width="33%">Downstairs area</img>
-<img src="./img/Level_7_upstairs_dark.png" width="33%">Upstairs area (original)</img>
-<img src="./img/Level_7_upstairs_bright.png" width="33%">Upstairs area (brightend)</img>
+<img src="./img/Level_7_downstairs.png" width="33%"><br/>Downstairs area</img>
+<img src="./img/Level_7_upstairs_dark.png" width="33%"><br/>Upstairs area (original)</img>
+<img src="./img/Level_7_upstairs_bright.png" width="33%"><br/>Upstairs area (brightend)</img>
 
 
 ## Entrances
