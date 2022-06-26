@@ -1,5 +1,6 @@
 # Level 6: Lights Out
 
+## Description
 This level consists of dark hallways, with the only source of light being the flashlight provided to you when entering the level.
 <img src="./img/Level_6_0.png" width="49%" />
 <img src="./img/Level_6_1.png" width="49%"/>
@@ -8,6 +9,6 @@ This level consists of dark hallways, with the only source of light being the fl
 * Noclip from a boiler room in <a href="./Level_5.md">Level 5</a>.
 
 ## Exits
-* Find a hole with a ladder in the floor, go down and you will be noclipped into <a href="./Level_7.md">Level 7</a>.
+* Find a hole with a ladder in the floor, go down and you will be noclipped into <a href="./Level_7.md">Level 7</a>, or in rare occasions directly to <a href="./Level_8.md">Level 8</a>.
 
 <a href="./Levels.md">Go back</a>
