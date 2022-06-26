@@ -6,6 +6,9 @@ Many hallways, some hallways contain bookshelfs. There has been a confirmed sigh
 <img src="./img/Level_10_1.png" width="33%" />
 <img src="./img/Level_10_2.png" width="33%" />
 
+## Entities
+You can find <a href="../entities/Entity_1.md">Smilerts</a> here sometimes.
+
 ## Entrances
 * Noclipping out of <a href="./Level_9.md">Level 9</a>.
 
