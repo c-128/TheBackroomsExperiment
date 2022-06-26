@@ -1,7 +1,7 @@
 # Level 9: Poolrooms
 
 ## Description
-This level consits of many pools.
+This level consits of many pools.<br/>
 <img src="./img/Level_9_0.png" width="49%" />
 <img src="./img/Level_9_1.png" width="49%" />
 
