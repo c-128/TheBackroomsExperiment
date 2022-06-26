@@ -6,7 +6,6 @@ This level looks like an old hotel. You can come across boiler rooms where you c
 <img src="./img/Level_5_1.png" width="33%"/>
 <img src="./img/Level_5_boiler.png" title="Boiler room" width="33%" />
 
-
 ## Entrances
 * Noclip from <a href="./Level_4.md">Level 4</a>.
 
