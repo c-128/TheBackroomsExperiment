@@ -7,4 +7,4 @@ This entity stays still if you don't touch them. If you touch them, it will atta
 ## Locations
 The entity has been found in multiple levels.
 
-<a href="./Entities.md">Go back</a>
+<a href="./Entities.md">Entity List</a><a href="./Entity_9.md">[Entity 1] ></a>

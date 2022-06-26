@@ -8,4 +8,4 @@ Staring at it DOES NOT HELP, instead it is recommended to disconnect and reconne
 ## Locations
 The entity has been found in <a href="../Level_10.md">Level 10</a> once.
 
-<a href="./Entities.md">Go back</a>
+<a href="./Entity_0.md">< [Entity 0]</a><a href="./Entities.md">Entity List</a>
