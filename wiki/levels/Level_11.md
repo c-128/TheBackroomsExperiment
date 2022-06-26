@@ -3,8 +3,8 @@
 ## Description
 The End is a big library, with empty bookshelfs. If you wander far enough, it will turn into bedrock.
 You can also find the only crafting tables on the entire server in here.
-<img src="./img/Level_11_0.png" />
-<img src="./img/Level_11_1.png" />
+<img src="./img/Level_11_0.png" width="49%" />
+<img src="./img/Level_11_1.png" width="49%" />
 
 ## Entrances
 * Noclip here from <a href="./Level_10.md">Level 10</a>.
