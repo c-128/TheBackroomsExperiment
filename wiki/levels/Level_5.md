@@ -2,9 +2,9 @@
 
 ## Description
 This level looks like an old hotel. You can come across boiler rooms where you can find an exit.
-<img src="./img/Level_5_0.png" />
-<img src="./img/Level_5_1.png" />
-<img src="./img/Level_5_boiler.png" title="Boiler room" />
+<img src="./img/Level_5_0.png" width="33%" />
+<img src="./img/Level_5_1.png" width="33%"/>
+<img src="./img/Level_5_boiler.png" title="Boiler room" width="33%" />
 
 
 ## Entrances
