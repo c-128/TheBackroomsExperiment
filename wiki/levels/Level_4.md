@@ -9,7 +9,7 @@ This level looks like an abonden office, with nothing inside it, just rooms and 
 * Going into the windows, they are a trap.
 
 ## Entrances
-* Noclip from <a href="./Level_3.md">Level 3</a>
+* Noclip from <a href="./Level_3.md">Level 3</a>.
 
 ## Exits
 * Find a staircase and walk it up, you will get noclipped to <a href="./Level_5.md">Level 5</a>.
