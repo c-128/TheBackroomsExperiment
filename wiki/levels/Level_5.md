@@ -12,4 +12,4 @@ This level looks like an old hotel. You can come across boiler rooms where you c
 ## Exits
 * Find a door labled with an exit sign in the boiler room and go through it to enter <a href="./Level_6.md">Level 6</a>.
 
-<a href="./Level_4.md">< [Level 4]</a><a href="./Levels.md">Level List</a><a href="./Level_6.md">[Level 6] ></a>
+<a href="./Level_4.md">< [Level 4]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_6.md">[Level 6] ></a>

@@ -14,4 +14,4 @@
 * <a href="./Level_11.md">Level 11</a>: The End
 
 
-<a href="../Wiki.md">Go back</a>
+<a href="../Wiki.md">Main Wiki Page</a>

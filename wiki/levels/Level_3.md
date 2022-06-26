@@ -12,4 +12,4 @@ This level has many hallways with cables running along the side.<br/>
 ## Exits
 * Find a hole in the floor labeled with an exit sign to go to <a href="./Level_4.md">Level 4</a>.
 
-<a href="./Level_2.md">< [Level 2]</a><a href="./Levels.md">Level List</a><a href="./Level_4.md">[Level 4] ></a>
+<a href="./Level_2.md">< [Level 2]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_4.md">[Level 4] ></a>

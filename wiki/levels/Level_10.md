@@ -12,4 +12,4 @@ Many hallways, some hallways contain bookshelfs. There has been a confirmed sigh
 ## Exits
 * Going into a door may lead to <a href="./Level_11.md">Level 11</a>.
 
-<a href="./Level_9.md">< [Level 9]</a><a href="./Levels.md">Level List</a><a href="./Level_11.md">[Level 11] ></a>
+<a href="./Level_9.md">< [Level 9]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_11.md">[Level 11] ></a>

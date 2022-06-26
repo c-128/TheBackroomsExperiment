@@ -13,4 +13,4 @@ This level has multiple layers, but they all look like an old attic. You can fin
 ## Exits
 * Walking up a stair and entering an end gateway portal will lead you to <a href="./Level_9.md">Level 9</a>.
 
-<a href="./Level_7.md">< [Level 7]</a><a href="./Levels.md">Level List</a><a href="./Level_9.md">[Level 9] ></a>
+<a href="./Level_7.md">< [Level 7]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_9.md">[Level 9] ></a>

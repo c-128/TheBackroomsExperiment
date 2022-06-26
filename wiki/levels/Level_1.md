@@ -16,4 +16,4 @@ This Level looks like an abonden warehouse with some mushrooms growing and many 
 ## Exits
 * Find a door labeld with an exit, go through it and you will be noclipped into <a href="./Level_2.md">Level 2</a>.
 
-<a href="./Level_0.md">< [Level 0]</a><a href="./Levels.md">Level List</a><a href="./Level_2.md">[Level 2] ></a>
+<a href="./Level_0.md">< [Level 0]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_2.md">[Level 2] ></a>
