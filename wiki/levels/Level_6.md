@@ -11,4 +11,4 @@ This level consists of dark hallways, with the only source of light being the fl
 ## Exits
 * Find a hole with a ladder in the floor, go down and you will be noclipped into <a href="./Level_7.md">Level 7</a>, or in rare occasions directly to <a href="./Level_8.md">Level 8</a>.
 
-<a href="./Levels.md">Go back</a>
+<a href="./Level_5.md">< [Level 5]</a><a href="./Levels.md">Level List</a><a href="./Level_7.md">[Level 7] ></a>
