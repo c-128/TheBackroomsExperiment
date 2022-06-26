@@ -5,6 +5,7 @@ This level has many hallways with cables running along the side.<br/>
 <img src="./img/Level_3_0.png" width="33%" />
 <img src="./img/Level_3_1.png" width="33%" />
 <img src="./img/Level_3_exit.png" width="33%" title="Exit for this level" />
+Screenshots provided by `Sted`.
 
 ## Entrances
 * Noclip here from <a href="./Level_2.md">Level 2</a>.
