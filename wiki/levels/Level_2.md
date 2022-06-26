@@ -5,6 +5,7 @@ This level has many long hallways with pipes running along the side. Currently i
 <img src="./img/Level_2_0.png" width="33%" />
 <img src="./img/Level_2_1.png" width="33%" />
 <img src="./img/Level_2_bursting.png" width="33%" title="Bursting pipe" />
+Screenshots provided by `Sted`.
 
 ## Entrances
 * Noclip here from <a href="./Level_1.md">Level 1</a>.
