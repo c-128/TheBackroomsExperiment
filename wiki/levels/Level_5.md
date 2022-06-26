@@ -1,7 +1,11 @@
-# Level 5: Hotel
+# Level 5: The Hotel
 
 ## Description
-This level looks like an old hotel.
+This level looks like an old hotel. You can come across boiler rooms where you can find an exit.
+<img src="./img/Level_5_0.png" />
+<img src="./img/Level_5_1.png" />
+<img src="./img/Level_5_boiler.png" title="Boiler room" />
+
 
 ## Entrances
 * Noclip from <a href="./Level_4.md">Level 4</a>.
