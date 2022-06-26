@@ -1,4 +1,4 @@
-# Entity 0: Smiler
+# Entity 1: Smiler
 
 ## Description
 Not much is known about this entity, but when you stay near it, it will attack you.
