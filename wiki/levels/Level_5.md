@@ -11,9 +11,10 @@ This level looks like an old hotel. You can come across boiler rooms where you c
 
 ## Entrances
 * Entering an end gateway portal in <a href="./Level_4.md">Level 4</a>.
-* Jumping into a hole in the floor on <a href="./Level_3.md">Level 3</a> sometimes leads to this level.
+* Jumping into a hole on <a href="./Level_3.md">Level 3</a> sometimes leads to this level.
 
 ## Exits
 * Entering an end gateway portal will lead to <a href="./Level_6.md">Level 6</a>.
+* Jumping into a hole will lead to <a href="./Level_6.md">Level 6</a>.
 
 <a href="./Level_4.md">< [Level 4]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_6.md">[Level 6] ></a>
