@@ -5,12 +5,14 @@ This level has many long hallways with pipes running along the side. Currently i
 <img src="./img/Level_2_0.png" width="33%" />
 <img src="./img/Level_2_1.png" width="33%" />
 <img src="./img/Level_2_bursting.png" width="33%" title="Bursting pipe" />
-Screenshots provided by `Sted`.
+
+## Entities
+(WIP)
 
 ## Entrances
-* Noclip here from <a href="./Level_1.md">Level 1</a>.
+* Entering an end gateway portal in <a href="./Level_1.md">Level 1</a>.
 
 ## Exits
-* Find a door labeld with an exit, go through it and you will be noclipped into <a href="./Level_3.md">Level 3</a>.
+* Entering an end gateway portal will lead to <a href="./Level_3.md">Level 3</a>.
 
 <a href="./Level_1.md">< [Level 1]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_3.md">[Level 3] ></a>

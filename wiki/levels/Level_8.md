@@ -6,11 +6,14 @@ This level has multiple layers, but they all look like an old attic. You can fin
 <img src="./img/Level_8_0_light.png" width="33%" title="Image 1 but with fullbright" />
 <img src="./img/Level_8_1.png" width="33%"/>
 
+## Entities
+(WIP)
+
 ## Entrances
-* Jumping in a hole in <a href="./Level_7.md">Level 7</a>.
-* On rare occasions, walking down a ladder in <a href="./Level_6.md">Level 6</a>.
+* Jumping into a hole in <a href="./Level_7.md">Level 7</a>.
+* Jumping into a hole in <a href="./Level_6.md">Level 6</a> sometimes leads to this level.
 
 ## Exits
-* Walking up a stair and entering an end gateway portal will lead you to <a href="./Level_9.md">Level 9</a>.
+* Entering an end gateway portal will lead to <a href="./Level_9.md">Level 9</a>.
 
 <a href="./Level_7.md">< [Level 7]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_9.md">[Level 9] ></a>

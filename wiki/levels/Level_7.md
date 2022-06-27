@@ -6,13 +6,15 @@ This level is split into 2 layers. The upper layer is hallways similar to the on
 <img src="./img/Level_7_upstairs_dark.png" title="Upstairs (original)" width="33%"/>
 <img src="./img/Level_7_upstairs_bright.png" title="Upstairs (brightend)" width="33%" />
 
+## Entities
+(WIP)
 
 ## Entrances
-* Noclip here by falling down a ladder in <a href="./Level_6.md">Level 6</a>.
-* Go through a portal in <a href="./Level_4.md">Level 4</a> at `X: 112 Z: 23`.
+* Jumping into a hole in <a href="./Level_6.md">Level 6</a>.
+* Entering a portal at `X: 112 Z: 23` in <a href="./Level_4.md">Level 4</a>.
 
 ## Exits
-* Find a 5x5 hole and jump in it, you will get noclipped to <a href="./Level_8.md">Level 8</a>.
-* Find a portal at `X: -2957 Z: 37`, enter it and you will land in <a href="./Level_4.md">Level 4</a>.
+* Jumping into a hole will lead to <a href="./Level_8.md">Level 8</a>.
+* Entering a portal at `X: -2957 Z: 37` will lead to <a href="./Level_4.md">Level 4</a>.
 
 <a href="./Level_6.md">< [Level 6]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_8.md">[Level 8] ></a>

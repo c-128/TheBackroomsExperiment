@@ -7,12 +7,12 @@ Many hallways, some hallways contain bookshelfs. There has been a confirmed sigh
 <img src="./img/Level_10_2.png" width="33%" />
 
 ## Entities
-You can find <a href="../entities/Entity_1.md">Smilerts</a> here sometimes.
+You can find <a href="../entities/Entity_1.md">Smilers</a> here sometimes.
 
 ## Entrances
 * Noclipping out of <a href="./Level_9.md">Level 9</a>.
 
 ## Exits
-* Going into a door may lead to <a href="./Level_11.md">Level 11</a>.
+* Entering an end gateway portal will lead to <a href="./Level_11.md">Level 11</a>.
 
 <a href="./Level_9.md">< [Level 9]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_11.md">[Level 11] ></a>
