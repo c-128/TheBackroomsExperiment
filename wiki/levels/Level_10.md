@@ -7,7 +7,8 @@ Many hallways, some hallways contain bookshelfs. There has been a confirmed sigh
 <img src="./img/Level_10_2.png" width="33%" />
 
 ## Entities
-You can find <a href="../entities/Entity_1.md">Smilers</a> here sometimes.
+You can find <a href="../entities/Entity_1.md">Smilers</a> here sometimes.<br/>
+You might find beehives, don't go near them as they will spawn house spiders that are extremely dangerous.
 
 ## Entrances
 * Noclipping out of <a href="./Level_9.md">Level 9</a>.
