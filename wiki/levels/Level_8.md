@@ -7,7 +7,7 @@ This level has multiple layers, but they all look like an old attic. You can fin
 <img src="./img/Level_8_1.png" width="33%"/>
 
 ## Entities
-(WIP)
+You might find beehives, don't go near them as they will spawn house spiders that are extremely dangerous.
 
 ## Entrances
 * Jumping into a hole in <a href="./Level_7.md">Level 7</a>.
