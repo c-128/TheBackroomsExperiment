@@ -12,6 +12,7 @@ You can also find the only crafting tables on the entire server in here.<br/>
 ## Entrances
 * Entering an end gateway portal in <a href="./Level_10.md">Level 10</a>.
 * Entering a portal in <a href="./Level_0.md">Level 0</a>.
+* Entering a portal in <a href="./Level_8.md">Level 8</a>.
 
 ## Exits
 * Entering a portal at `X: 9 Z: -13` may lead to <a href="./Level_0.md">Level 0</a>.

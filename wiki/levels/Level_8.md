@@ -16,6 +16,7 @@ You might find beehives, don't go near them as they will spawn house spiders tha
 
 ## Exits
 * Entering an end gateway portal will lead to <a href="./Level_9.md">Level 9</a>.
+* Entering a portal at `X: 793 Z: -1063` may lead to <a href="./Level_11.md">Level 11</a>.
 * Entering a portal at `X: -4 Z: -607` may lead to <a href="./Level_188.md">Level 188</a>.
 * Entering a portal at `X: 260 Z: -511` may lead to <a href="../hubs/Hub_0.md">Hub 0</a>.
 
