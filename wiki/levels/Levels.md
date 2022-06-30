@@ -12,6 +12,6 @@
 * <a href="./Level_9.md">Level 9</a>: Poolrooms
 * <a href="./Level_10.md">Level 10</a>: Hall
 * <a href="./Level_11.md">Level 11</a>: The End
-* <a href="./Level_188.md">Level 188</a>: The Courtyard of Window
+* <a href="./Level_188.md">Level 188</a>: PARADISE
 
 <a href="../Wiki.md">Main Wiki Page</a>
