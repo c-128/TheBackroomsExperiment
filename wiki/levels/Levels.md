@@ -14,12 +14,4 @@
 * <a href="./Level_11.md">Level 11</a>: The End
 * <a href="./Level_188.md">Level 188</a>: The Courtyard of Window
 
-## Portals
-
-
-| Entry                 | Exit              |
-| :---------------------- | ------------------- |
-| `L: 1 X: -108 Z: 162` | `L: 6 X: 0 Z: 56` |
-| `L: 7 X: -928 Z: 240` | `L: 4 X: 0 Z: 56` |
-
 <a href="../Wiki.md">Main Wiki Page</a>
