@@ -1,4 +1,4 @@
-# Level 188: The Courtyard of Windows
+# Level 188: PARADISE
 
 ## Description
 This level looks like a courtyard with the walls having many windows.
