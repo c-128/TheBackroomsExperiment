@@ -11,8 +11,10 @@ This level has many hallways with cables running along the side.<br/>
 
 ## Entrances
 * Entering an end gateway portal in <a href="./Level_2.md">Level 2</a>.
+* Entering a portal in <a href="./Level_4.md">Level 4<</a>.
 
 ## Exits
 * Jumping into a hole will lead to <a href="./Level_4.md">Level 4</a>, sometimes <a href="./Level_5.md">Level 5</a>.
+* Entering a portal at `X: -1193 Z: -426` will lead to <a href="./Level_4.md">Level 4</a>.
 
 <a href="./Level_2.md">< [Level 2]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_4.md">[Level 4] ></a>
