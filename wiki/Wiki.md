@@ -2,11 +2,12 @@
 
 ## Quick Links
 * <a href="./entities/Entities.md">Entities</a>
-* <a href="./levels/Levels.md">Levels</a>
 * <a href="./guides/Guides.md">Guides</a>
+* <a href="./hubs/Hubs.md">Hubs</a>
+* <a href="./levels/Levels.md">Levels</a>
 
 ## Credits
-* Sted for providing some screenshots and a lot of info
+* Sted for providing some screenshots and a lot of info and finding many portals, including the first Hub
 
 ## Joining message
 ```

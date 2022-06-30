@@ -13,5 +13,6 @@ You can find <a href="../entities/Entity_0.md">Pillagers</a> here on rare occasi
 ## Exits
 * Entering an end gateway portal will lead to <a href="./Level_2.md">Level 2</a>.
 * Entering a portal at `X: -108 Z: 162` may lead to <a href="./Level_6.md">Level 6</a>.
+* Entring a portal at `X: 660 Z: -180` may lead to <a href="../hubs/Hub_0.md">Hub 0</a>.
 
 <a href="./Level_0.md">< [Level 0]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_2.md">[Level 2] ></a>
