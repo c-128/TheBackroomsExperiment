@@ -11,8 +11,10 @@ This level consists of dark hallways, with the only source of light being the fl
 ## Entrances
 * Entering an end gateway portal in <a href="./Level_5.md">Level 5</a>.
 * Jumping into a hole on <a href="./Level_5.md">Level 5</a>.
+* Entering a portal in <a href="./Level_1.md">Level 1</a>.
 
 ## Exits
 * Jumping into a hole will lead to <a href="./Level_7.md">Level 7</a>, sometimes <a href="./Level_8.md">Level 8</a>.
+* Entering a portal at `X: 0 Z: 56` may lead to <a href="./Level_1.md">Level 1</a>.
 
 <a href="./Level_5.md">< [Level 5]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_7.md">[Level 7] ></a>

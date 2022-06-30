@@ -11,10 +11,12 @@ This level is split into 2 layers. The upper layer is hallways similar to the on
 
 ## Entrances
 * Jumping into a hole in <a href="./Level_6.md">Level 6</a>.
-* Entering a portal at `X: 112 Z: 23` in <a href="./Level_4.md">Level 4</a>.
+* Entering a portal in <a href="./Level_0.md">Level 0</a>.
+* Entering a portal in <a href="./Level_4.md">Level 4</a>.
 
 ## Exits
 * Jumping into a hole will lead to <a href="./Level_8.md">Level 8</a>.
-* Entering a portal at `X: -2957 Z: 37` will lead to <a href="./Level_4.md">Level 4</a>.
+* Entering a portal at `X: 133 Z: -43` may lead to <a href="./Level_0.md">Level 0</a>.
+* Entering a portal at `X: -928 Z: 240` may lead to <a href="./Level_4.md">Level 4</a>.
 
 <a href="./Level_6.md">< [Level 6]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_8.md">[Level 8] ></a>

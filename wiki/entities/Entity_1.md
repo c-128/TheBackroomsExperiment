@@ -8,4 +8,4 @@ Smilers usually start to attack you if you are near them, but they only seem to 
 ## Locations
 The entity has been found in multiple levels.
 
-<a href="./Entity_0.md">< [Entity 0]</a> | <a href="./Entities.md">Entity List</a>
+<a href="./Entity_0.md">< [Entity 0]</a> | <a href="./Entities.md">Entity List</a> | <a href="./Entity_2.md">[Entity 2] ></a>
