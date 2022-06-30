@@ -1,7 +1,8 @@
 # Entity 2: Bacteria
 
 ## Description
-Bacteria look like a bunch of wires. They are passive unless you attack them.
+Bacteria look like a bunch of wires. They are passive unless you attack them.<br/>
+<img src="./img/Entity_2.png" />
 
 ## Locations
 The entity has been found in multiple levels.
