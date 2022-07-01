@@ -14,5 +14,6 @@ This level has many long hallways with pipes running along the side. Currently i
 
 ## Exits
 * Entering an end gateway portal will lead to <a href="./Level_3.md">Level 3</a>.
+* Entering a portal at `X: 112 Z: -55` may lead to <a href="../hubs/Hub_1.md">Hub 1</a>.
 
 <a href="./Level_1.md">< [Level 1]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_3.md">[Level 3] ></a>
