@@ -3,6 +3,12 @@
 ## Description
 This level looks like a courtyard with the walls having many windows.
 
+
+![Paradise](https://user-images.githubusercontent.com/108957198/178072019-414ad6ea-aa5f-4653-b0ad-cea8d1a483ab.png)
+
+
+
+
 ## Entities
 WIP
 
@@ -16,3 +22,4 @@ WIP
 
 
 <a href="./Level_11.md">< [Level 11]</a> | <a href="./Levels.md">Level List</a>
+
