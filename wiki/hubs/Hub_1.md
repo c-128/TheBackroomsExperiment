@@ -3,7 +3,6 @@
 <img src="./img/Hub_1_hallway.png" width="49%" />
 <img src="./img/Hub_1_cinema.png" width="49%" />
 
-
 ## Connections
 * <a href="../levels/Level_1.md">Level 1</a>
 * <a href="../levels/Level_2.md">Level 2</a>
@@ -18,4 +17,4 @@
 * Entering a portal at `X: 1137 Z: -1161` on level <a href="../Level_4.md">Level 4</a>.
 * Entering a portal at `X: -553 Z: -889` on level <a href="../Level_10.md">Level 10</a>.
 
-<a href="./Hub_0.md">< [Hub 0]</a> | <a href="./Hubs.md">Hub List</a>
+<a href="./Hub_0.md">< [Hub 0]</a> | <a href="./Hubs.md">Hub List</a> | <a href="./Hub_2.md">[Hub 2] ></a>
