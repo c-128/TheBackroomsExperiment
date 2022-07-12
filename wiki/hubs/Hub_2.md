@@ -1,22 +1,5 @@
 # Hub 2: PARADISE
 
-## Description
-This level looks like a courtyard with the walls having many windows.
-
-## Entities
-WIP
-
-## Entrances
-* Entering a portal in <a href="./Level_4.md">Level 4</a>.
-* Entering a portal in <a href="./Level_8.md">Level 8</a>.
-
-## Exits
-* Entering a portal at `X: -364 Y: 74 Z: 683` may lead to <a href="./Level_4.md">Level 4</a>.
-* Entering a portal at `X: -367 Y: 66 Z: 683` may lead to <a href="./Level_8.md">Level 8</a>.
-
-
-<a href="./Level_11.md">< [Level 11]</a> | <a href="./Levels.md">Level List</a>
-
 ## Connections
 * <a href="../levels/Level_4.md">Level 4</a>
 * <a href="../levels/Level_8.md">Level 8</a>
@@ -28,4 +11,4 @@ WIP
 * Entering a portal at `X: 1137 Z: -1161` on level <a href="../Level_4.md">Level 4</a>.
 * Entering a portal at `X: -553 Z: -889` on level <a href="../Level_10.md">Level 10</a>.
 
-<a href="./Hub_1.md">< [Hub 1]</a> | <a href="./Hubs.md">Hub List</a>
+<a href="./Hub_1.md">< [Hub 1]</a> | <a href="./Hubs.md">Hub List</a> | <a href="./Hub_3.md">[Hub 3] ></a>
