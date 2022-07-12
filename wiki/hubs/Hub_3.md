@@ -1,4 +1,4 @@
-# Hub 3: PARADISE
+# Hub 3: The Infinite Road 
 
 ## Connections
 * Every level

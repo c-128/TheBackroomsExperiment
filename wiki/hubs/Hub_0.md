@@ -10,5 +10,4 @@
 * Entering a portal at `X: -326 Z: 476` on level <a href="../Level_4.md">Level 4</a>.
 * Entering a portal at `X: 260 Z: -511` on level <a href="../Level_8.md">Level 8</a>.
 
-<a href="./Hubs.md">Hub List</a>
 <a href="./Hubs.md">Hub List</a> | <a href="./Hub_0.md">[Hub 0] ></a>

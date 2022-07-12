@@ -1,4 +1,4 @@
-# Hub 1
+# Hub 1: Cinema
 
 <img src="./img/Hub_1_hallway.png" width="49%" />
 <img src="./img/Hub_1_cinema.png" width="49%" />
