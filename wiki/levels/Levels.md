@@ -12,8 +12,8 @@
 * <a href="./Level_8.md">Level 8</a>: Attic
 * <a href="./Level_9.md">Level 9</a>: Poolrooms
 * <a href="./Level_10.md">Level 10</a>: Hall
-* <a href="./Level_11.md">Level 11</a>: Forgotton
-* <a href="./Level_12.md">Level 12</a>: I'm Blue
-* <a href="./Level_13.md">Level 13</a>: The End
+* <a href="./Level_22.md">Level 22</a>: Forgotton
+* <a href="./Level_62.md">Level 62</a>: I'm Blue
+* <a href="./Level_10000.md">Level 10000</a>: The End
 
 <a href="../Wiki.md">Main Wiki Page</a>
