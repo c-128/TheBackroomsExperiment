@@ -1,8 +1,9 @@
 # Level 62: Spatial Blue Anomalies
 
-Also called simply "Blue". It's filled with strange geometrical architecture made of unknown blue material.
 
 ## Description
+
+Also called simply "Blue". It's filled with strange geometrical architecture made of unknown blue material.
 <img src="./img/Level_62_0.png" width="49%" />
 <img src="./img/Level_62_1.png" width="49%" />
 
