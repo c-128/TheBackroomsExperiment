@@ -1,4 +1,4 @@
-# Level 22: Forgotton
+# Level 22: Ruins Left Behind
 
 ## Description
 <img src="./img/Level_22_0.png" width="49%" />
