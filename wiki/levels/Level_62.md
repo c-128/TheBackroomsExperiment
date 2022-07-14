@@ -1,4 +1,6 @@
-# Level 12: I'm Blue
+# Level 62: Spatial Blue Anomalies
+
+Also called simply "Blue". It's filled with strange geometrical architecture made of unknown blue material.
 
 ## Description
 <img src="./img/Level_62_0.png" width="49%" />
