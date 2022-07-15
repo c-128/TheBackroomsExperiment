@@ -1,4 +1,4 @@
-# Level 10000: The End
+# Level End: The End
 
 ## Description
 The End is a big library, with empty bookshelfs.<br/>
