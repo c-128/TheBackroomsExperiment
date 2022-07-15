@@ -16,4 +16,4 @@ The End is a big library, with empty bookshelfs.<br/>
 ## Exits
 * Entering a portal at `X: 9 Z: -13` may lead to <a href="./Level_0.md">Level 0</a>.
 
-<a href="./Level_62.md">< [Level 62]</a> | <a href="./Levels.md">Level List</a>
+<a href="./Level_9223372036854775807.md">< [Level 9223372036854775807]</a> | <a href="./Levels.md">Level List</a>
