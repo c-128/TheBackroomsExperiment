@@ -14,6 +14,6 @@ WIP
 * Entering an end gateway portal in <a href="./Level_22.md">Level 22</a>.
 
 ## Exits
-* Entering an end gateway portal will lead to <a href="./Level_10000.md">Level 10000</a>.
+* Entering an end gateway portal will lead to <a href="./Level_Level_9223372036854775807.md">Level Level_9223372036854775807</a>.
 
-<a href="./Level_22.md">< [Level 22]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_10000.md">[Level 10000] ></a>
+<a href="./Level_22.md">< [Level 22]</a> | <a href="./Levels.md">Level List</a> | <a href="./Level_Level_9223372036854775807.md">[Level Level_9223372036854775807] ></a>
