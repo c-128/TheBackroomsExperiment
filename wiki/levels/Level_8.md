@@ -12,7 +12,6 @@ You might find beehives, don't go near them as they will spawn house spiders tha
 ## Entrances
 * Jumping into a hole in <a href="./Level_7.md">Level 7</a>.
 * Jumping into a hole in <a href="./Level_6.md">Level 6</a> sometimes leads to this level.
-* Entering a portal in <a href="./Level_188.md">Level 188</a>.
 
 ## Exits
 * Entering an end gateway portal will lead to <a href="./Level_9.md">Level 9</a>.

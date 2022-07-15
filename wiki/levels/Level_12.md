@@ -9,7 +9,7 @@ This is one of the most mysterious levels, being just a room with tables and cha
 You can find <a href="../entities/Entity_0.md">Pillagers</a> in here.
 
 ## Entrances
-* WIP: Entering an end gateway portal in <a href="./Level_9.md">Level 9</a>.
+* Entering an end gateway portal in <a href="./Level_10.md">Level 10</a>.
 
 ## Exits
 * WIP: Entering a portal at `X: 13 Z: 17` may lead to <a href="./Level_22.md">Level 22</a>.

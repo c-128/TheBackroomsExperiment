@@ -11,7 +11,6 @@ This level looks like an abonden office, with nothing inside it, just rooms and 
 * Jumping into a hole in <a href="./Level_3.md">Level 3</a>.
 * Entering a portal in <a href="./Level_7.md">Level 7</a>.
 * Entering a portal in <a href="./Level_3.md">Level 33</a>.
-* Entering a portal in <a href="./Level_188.md">Level 188</a>.
 
 ## Exits
 * Entering an end gateway portal will lead to <a href="./Level_5.md">Level 5</a>.

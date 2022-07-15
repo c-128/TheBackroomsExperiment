@@ -8,7 +8,7 @@
 WIP
 
 ## Entrances
-* WIP: Entering an end gateway portal in <a href="./Level_10.md">Level 10</a> sometimes leads to this level.
+* Entering an end gateway portal in <a href="./Level_12.md">Level 12</a>.
 
 ## Exits
 * Entering an end gateway portal will lead to <a href="./Level_62.md">Level 62</a>.
