@@ -9,7 +9,7 @@ The End is a big library, with empty bookshelfs.<br/>
 (WIP)
 
 ## Entrances
-* Entering an end gateway portal in <a href="./Level_62.md">Level 62</a>.
+* INVALID: Entering an end gateway portal in <a href="./Level_62.md">Level 62</a>.
 * Entering a portal in <a href="./Level_0.md">Level 0</a>.
 * Entering a portal in <a href="./Level_8.md">Level 8</a>.
 
