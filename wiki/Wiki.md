@@ -9,6 +9,7 @@
 ## Credits
 * Sted for providing some screenshots and a lot of info and finding many portals, including the first Hub
 * Jakebreake for finding Hub 1
+* Amalgamate for helping with many articles
 
 ## Joining message
 ```

@@ -1,10 +1,10 @@
-# Level 75: Water Level
+# Level 7.5: Water Level
 
 ## Description
 
-Blueish level filled with bookshelves.
-
-<img src="./img/75first.png" width="49%" />  <img src="./img/75second.png" width="49%" />
+Blueish level filled with bookshelves.<br/>
+<img src="./img/Level_75_0.png" width="49%" />
+<img src="./img/Level_75_1.png" width="49%" />
 
 ## Entities
 You can find <a href="../entities/Entity_0.md">Pillagers</a> in here.

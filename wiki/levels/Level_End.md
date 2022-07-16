@@ -2,14 +2,14 @@
 
 ## Description
 The End is a big library, with empty bookshelfs.<br/>
-<img src="./img/Level_10000_0.png" width="49%" />
-<img src="./img/Level_10000_1.png" width="49%" />
+<img src="./img/Level_End_0.png" width="49%" />
+<img src="./img/Level_End_1.png" width="49%" />
 
 ## Entities
 (WIP)
 
 ## Entrances
-* INVALID: Entering an end gateway portal in <a href="./Level_62.md">Level 62</a>.
+* WIP
 * Entering a portal in <a href="./Level_0.md">Level 0</a>.
 * Entering a portal in <a href="./Level_8.md">Level 8</a>.
 
