@@ -14,7 +14,7 @@
 * <a href="./Level_9.md">Level 9</a>: Poolrooms
 * <a href="./Level_10.md">Level 10</a>: Hall
 * <a href="./Level_12.md">Level 12</a>: Matrix
-* <a href="./Level_22.md">Level 22</a>: Forgotten
+* <a href="./Level_22.md">Level 22</a>: Ruins Left Behind
 * <a href="./Level_62.md">Level 62</a>: Spatial Blue Anomalies
 * <a href="./Level_53.md">Level 153</a>: Vintage Office Building
 * <a href="./Level_9223372036854775807.md">Level 9223372036854775807</a>: The True Final Level
